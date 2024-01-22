@@ -116,10 +116,10 @@
   height: 20px;
   padding: 3px;
   display: flex;
-  justify-content: end;
+  justify-content: start;
 }
 .power.active {
-  justify-content: start;
+  justify-content: end;
 }
 
 .power-select {
